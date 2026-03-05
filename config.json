@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "filesystem": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-filesystem", "D:/MCP"]
+    },
+    "arduino_code": {
+      "command": "python",
+      "args": ["D:/MCP/arduino_server.py"]
+    }
+  }
+}
