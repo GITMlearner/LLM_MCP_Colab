@@ -4,5 +4,6 @@ open-webui serve
 #create Bridge 
 mcpo --port 8000 --config "D:/MCP/config.json"
 
-#available MCP methods
-http://localhost:8000/filesystem/docs#/http://localhost:8000/filesystem/docs
+#Checking available MCP methods
+http://localhost:8000/filesystem/docs
+
