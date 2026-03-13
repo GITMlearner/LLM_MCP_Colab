@@ -7,6 +7,10 @@
     "arduino_code": {
       "command": "python",
       "args": ["D:/MCP/arduino_server.py"]
+    },
+    "mqtt_cloud": {
+      "command": "python",
+      "args": ["D:/MCP/mqtt_server.py"]
     }
   }
 }
